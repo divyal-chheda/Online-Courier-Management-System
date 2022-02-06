@@ -2,5 +2,5 @@
 
 Group Members are :
 Divyal Chheda,
-Bhavika Band
+Bhavika Band,
 Pratik Pandit
